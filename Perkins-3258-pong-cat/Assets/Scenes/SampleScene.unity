@@ -366,7 +366,7 @@ GameObject:
   - component: {fileID: 389986853}
   m_Layer: 0
   m_Name: leftscore
-  m_TagString: Untagged
+  m_TagString: leftscore
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -451,8 +451,8 @@ Transform:
   m_GameObject: {fileID: 389986852}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -21.394978, y: 0.77, z: -9.23}
-  m_LocalScale: {x: 14.198562, y: 4.1779, z: 7.016873}
+  m_LocalPosition: {x: -21.394978, y: 0.77, z: -8.57}
+  m_LocalScale: {x: 14.198562, y: 9.092781, z: 5.7916565}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -745,7 +745,7 @@ Transform:
   m_GameObject: {fileID: 537976130}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -21.51, y: 1.42, z: 12.16}
+  m_LocalPosition: {x: -20.56, y: 1.42, z: 12.16}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
