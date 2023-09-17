@@ -6,6 +6,7 @@ TagManager:
   tags:
   - leftscore
   - rightscore
+  - left3score
   layers:
   - Default
   - TransparentFX
